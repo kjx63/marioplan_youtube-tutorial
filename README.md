@@ -18,3 +18,7 @@
 ### Packages
 
 - react-router-dom
+
+### Skills to be gained
+
+- Link to "project/:id" (Link to the ProjectDetails component from ProjectSummary)
