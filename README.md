@@ -18,6 +18,8 @@
 ### Packages
 
 - react-router-dom
+- redux
+- react-redux
 
 ### Skills to be gained
 
